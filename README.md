@@ -1,6 +1,6 @@
 # gulp-directory-images-optimizer
 ##Description
-This is configured gulp file and npm pachages set which will optimize the size of all images under the directory to which it's extracted to.
+This is configured gulp file and npm packages set which will optimize the size of all images under the directory to which it's extracted to.
 ##Installation
 1) Install [node.js](https://nodejs.org/en)
 2) Run `npm install gulp-directory-images-optimizer` under the directory under which you want to optimize images.
