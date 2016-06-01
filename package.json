@@ -1,7 +1,7 @@
 {
   "description": "Gulp file setup to optimize all images under root folder",
   "name": "gulp-directory-images-optimizer",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "gulpfile.js",
   "author": "markiyan_pyts",
   "license": "ISC",
@@ -12,7 +12,7 @@
       "imagemin-pngquant": "^5.0.0"
   },
   "scripts": {
-    "optimize": "gulp"
+    "imgmin": "gulp"
   },
   "repository": {
     "type": "git",
